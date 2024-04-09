@@ -1,5 +1,7 @@
 # Code-Reproduction-for-Audio-Visual-Representation-system
 
+This is finished during Dec, 2022 and Jan, 2023. 
+
 I learned from the paper published in CVPR 2021 named 'Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation' (github link: https://hangznju-cuhk.github.io/projects/PC-AVS) and made a few changed to the codes to make it applicable in my own input data. 
 
 For example, the screenshot for gesture input is: 
