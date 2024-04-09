@@ -14,6 +14,7 @@ The screenshot for applied target input is:
 
 
 The screenshot for talking face generated output is: 
-![image](https://github.com/DanyXuXX/Code-Reproduction-for-Audio-Visual-Representation-system/assets/77055103/e4f19f01-0003-4a6a-8b5a-5c683c9b193d)
+![image](https://github.com/DanyXuXX/Code-Reproduction-for-Audio-Visual-Representation-system/assets/77055103/40c8585f-1db9-4844-91ec-98f192ec7836)
+
 
 The video example is stored in file 'example'.
